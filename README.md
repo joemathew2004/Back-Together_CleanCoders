@@ -8,10 +8,10 @@
 
 ## 🚀 Features  
 - **Role-Based Login** - Four unique user roles with tailored functionalities:
-- Recovery Members
-- Law Enforcement Officers
-- Youth Volunteers / Family / Caregivers
-- Health Experts
+    * Recovery Members
+    * Law Enforcement Officers
+    * Youth Volunteers / Family / Caregivers
+    * Health Experts
 - **Personalized Recovery Plans** – Tailored strategies based on user needs.  
 - **24/7 AI Chatbot** – Provides real-time guidance and emotional support.  
 - **Community Connection** – Connects users with support groups and professionals.  
