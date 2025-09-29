@@ -1,10 +1,10 @@
 # Clean Coders - Back Together
 
-### 🏆 **Third Prize Winner (₹25,000) at Hack A Addict**  
-*Hackathon by IEEE MACE Chapter & Lions Club*
-
 ## 📌 Overview  
 **Back Together** is a Flutter-based mobile application designed to combat drug addiction by integrating machine learning, community engagement, and telehealth solutions. The app provides real-time support, rehabilitation assistance, and data-driven insights to help individuals, families, and law enforcement address addiction-related challenges effectively.
+
+### 🏆 **Third Prize Winner (₹25,000) at Hack A Addict**  
+*Hackathon by IEEE MACE Chapter & Lions Club*
 
 ## 🚀 Features  
 - **Role-Based Login** - Four unique user roles with tailored functionalities:
