@@ -1,4 +1,4 @@
-# Clean Coders - Back Together
+# BACK TOGETHER - Clean Coders 
 
 ## 📌 Overview  
 **Back Together** is a Flutter-based mobile application designed to combat drug addiction by integrating machine learning, community engagement, and telehealth solutions. The app provides real-time support, rehabilitation assistance, and data-driven insights to help individuals, families, and law enforcement address addiction-related challenges effectively.
