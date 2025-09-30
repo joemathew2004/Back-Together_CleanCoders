@@ -23,7 +23,7 @@
 - **Machine Learning** – Clustering for personalized recommendations  
 - **AI Chatbot** – For 24/7 user support  
 
-## 📌 Team  
+## 🤝 Team  
 - **Joe Mathew**  
 - **Sebastian George**  
 - **Vaishnev Sreejeev**  
